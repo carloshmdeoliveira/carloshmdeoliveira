@@ -1,4 +1,4 @@
-## Olá eu sou Carlos, back-end em processo de aprendizagem!!
+## Hi there, i'm Carlos. A back-end developer in progress!!
 <div align="center">
   <a href="https://github.com/carloshmdeoliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloshmdeoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
